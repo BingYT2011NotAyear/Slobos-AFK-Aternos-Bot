@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "LarryToPrut",
+    "username": "JLJLJL",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "reallifee.aternos.me",
     "port": 41844,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
