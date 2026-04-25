@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "JLJLJL",
+    "username": "Jim Bob",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Its about time that i find the dimond, Its about time that i mine the dimond",
-        "Larry to prut!",
-        "I like adidas!"
+        "rec room better",
+        "Jarvis to prut!",
+        "67 hje hje!",
+        "tylko w ohio"
       ]
     },
     "chat-log": true,
